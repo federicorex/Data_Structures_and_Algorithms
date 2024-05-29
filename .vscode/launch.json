@@ -1,0 +1,197 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch AscBubbleSort",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\AscBubbleSort.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch BinaryS",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\BinaryS.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch CapitalXSearch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\CapitalXSearch.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch EvenNumbers",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\EvenNumbers.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch FindDuplicate",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\FindDuplicate.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch FindNotDuplicate",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\FindNotDuplicate.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch FirstLast",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\FirstLast.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch MaxNum",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\MaxNum.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch MissingLetter",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\MissingLetter.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Palindrome",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\Palindrome.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch TwoArraysIntersection",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\TwoArraysIntersection.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Stack",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\Stack.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Queue",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\Queue.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch ReverseStringWithStack",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\ReverseStringWithStack.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch RecursionPt1",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\RecursionPt1.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch RecursionPt2",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\RecursionPt2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch PartionAndQuicksort",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\PartionAndQuicksort.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch FindDuplicateQuicksort",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\FindDuplicateQuicksort.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch CustomNode",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\CustomNode.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch LinkedList",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\LinkedList.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch LinkedListExercises",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\LinkedListExercises.js"
+        },
+    ]
+}
