@@ -193,5 +193,41 @@
             ],
             "program": "${workspaceFolder}\\src\\LinkedListExercises.js"
         },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch CustomBinarySearchTree",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\CustomBinarySearchTree.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch BinarySearchTreeExercises",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\BinarySearchTreeExercises.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch CustomHeap",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\CustomHeap.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch HeapExercises",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\HeapExercises.js"
+        },
     ]
 }
