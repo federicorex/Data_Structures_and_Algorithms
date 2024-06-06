@@ -229,5 +229,32 @@
             ],
             "program": "${workspaceFolder}\\src\\HeapExercises.js"
         },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch CustomTrie",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\CustomTrie.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch CustomTrieNode",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\CustomTrieNode.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch TrieExercises",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\TrieExercises.js"
+        },
     ]
 }
