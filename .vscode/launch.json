@@ -256,5 +256,23 @@
             ],
             "program": "${workspaceFolder}\\src\\TrieExercises.js"
         },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch CustomVertex",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\CustomVertex.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch GraphExercises",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\GraphExercises.js"
+        },
     ]
 }
