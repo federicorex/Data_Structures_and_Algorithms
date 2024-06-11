@@ -1,4 +1,4 @@
-export class Stack {
+export class CustomStack {
     constructor() {
         let data = [];
         this.data = data;
