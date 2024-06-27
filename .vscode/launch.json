@@ -268,11 +268,29 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Launch CustomWeightedGraphVertex",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\CustomWeightedGraphVertex.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "Launch GraphExercises",
             "skipFiles": [
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\src\\GraphExercises.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch FinalExercise",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\src\\FinalExercise.js"
         },
     ]
 }
